@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25721" started-at="2022-06-25T17:03:26 IST" finished-at="2022-06-25T17:03:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25721" started-at="2022-06-25T17:03:26 IST" finished-at="2022-06-25T17:03:52 IST">
+      <class name="com.cjc.fk.test.Flipkard">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="beforeSuite" is-config="true" duration-ms="2201" started-at="2022-06-25T17:03:24 IST" finished-at="2022-06-25T17:03:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="enterApplicationUrl()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="enterApplicationUrl" is-config="true" duration-ms="17887" started-at="2022-06-25T17:03:26 IST" finished-at="2022-06-25T17:03:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationUrl -->
+        <test-method status="PASS" signature="maximizeWindow()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="maximizeWindow" is-config="true" duration-ms="190" started-at="2022-06-25T17:03:44 IST" finished-at="2022-06-25T17:03:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeWindow -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="getCookies" is-config="true" duration-ms="344" started-at="2022-06-25T17:03:45 IST" finished-at="2022-06-25T17:03:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="loginTest" duration-ms="561" started-at="2022-06-25T17:03:45 IST" finished-at="2022-06-25T17:03:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="captureScreenshot" is-config="true" duration-ms="269" started-at="2022-06-25T17:03:45 IST" finished-at="2022-06-25T17:03:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="getCookies" is-config="true" duration-ms="300" started-at="2022-06-25T17:03:46 IST" finished-at="2022-06-25T17:03:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:1, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="searchProductTest" duration-ms="4196" started-at="2022-06-25T17:03:46 IST" data-provider="getData" finished-at="2022-06-25T17:03:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dell laptop core i5 11th generation 8gb/1tb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="captureScreenshot" is-config="true" duration-ms="503" started-at="2022-06-25T17:03:50 IST" finished-at="2022-06-25T17:03:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="deleteCookies" is-config="true" duration-ms="1385" started-at="2022-06-25T17:03:51 IST" finished-at="2022-06-25T17:03:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="dbClose()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="dbClose" is-config="true" duration-ms="0" started-at="2022-06-25T17:03:52 IST" finished-at="2022-06-25T17:03:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbClose -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="closeBrowser" is-config="true" duration-ms="4191" started-at="2022-06-25T17:03:52 IST" finished-at="2022-06-25T17:03:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.cjc.fk.test.Flipkard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
