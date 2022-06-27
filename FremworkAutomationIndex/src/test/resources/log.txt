@@ -1,0 +1,1483 @@
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9ucuB7TQWPm0Vmk2UEM8zViEy52G7pb21BH4EM5Zf6rn9u1lnTDwGf2mlZmNrrUByvIeUN%2BSaYkW1BmuR%2FbAOVYg%2FqHaFNbkYXa%2BOoUaYBrNTuEtCBd%2BjTZmscIs288jrVrrDNLPfpFy6d87tT%2FVnwQU%3D000119
+path=/
+Expiry=Thu Jul 14 15:05:37 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uSCUX9rldgZxFMp%2FPAUKqYf75BM1r1aI8Hb6lO1VPfqkMz2nYfr4WNG49j8ldQht8QulQpZ%2FZATgoHAM8UKyL7KB5VRrJF6XhVfjnbZN1P3eBnlisVBFC2E7P%2Bgt76o7wHQ4k2FcExmOYIPMz%2BjveYo%3D000118
+path=/
+Expiry=Thu Jul 14 16:07:46 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uZql1a%2BOTJz3pYndQ44NPxAVP9eA%2FbPMko6iTkhQ4PUHKSrB31%2Bs5Nphwag9NF8OExRBaJv%2BwZjIQW8X9hwzpvxNrvv1tIUaDDHA0Iw%2BymhVWAymZRKraU%2Bjcgv45WETz3KMuMlHd3F73fRWGV7gJxY%3D000118
+path=/
+Expiry=Thu Jul 14 17:03:08 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uZql1a%2BOTJz3pYndQ44NPxAVP9eA%2FbPMko6iTkhQ4PUHKSrB31%2Bs5Nphwag9NF8OExRBaJv%2BwZjIQW8X9hwzpvxNrvv1tIUaDDHA0Iw%2BymhVWAymZRKraU%2Bjcgv45WETz3KMuMlHd3F73fRWGV7gJxY%3D000118
+path=/
+Expiry=Thu Jul 14 17:03:08 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uSv7ptg2u%2By1ftMcENfptsfv0cYUqVh0BT3QlNjfA6akZSgLfOPtXLe%2Bqh1G63uj%2B2ZVqpk0QTOurnJrC5%2FRL%2FeXW4mrYq%2B5wfFRWJilP1qkJlKrbfXuDHyazaaHiUdKz4VFgaQa%2BIVsQt8C%2BRO6qlE%3D000119
+path=/
+Expiry=Thu Jul 14 17:22:32 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uSv7ptg2u%2By1ftMcENfptsfv0cYUqVh0BT3QlNjfA6akZSgLfOPtXLe%2Bqh1G63uj%2B2ZVqpk0QTOurnJrC5%2FRL%2FeXW4mrYq%2B5wfFRWJilP1qkJlKrbfXuDHyazaaHiUdKz4VFgaQa%2BIVsQt8C%2BRO6qlE%3D000119
+path=/
+Expiry=Thu Jul 14 17:22:32 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uVhgQtiStmWwQRiyCTcMdh2Kmf%2FMqPVFkhUrlRbCgSnI2P4coJAyb%2BA0qqqmJ7g96Ql0dNnRreRN4pWcpdZasYq98SzcQu7pLahS6%2Bh0rSSGFQaPxeTz22%2BR5CItXjjfT4f3QfFgJ5dwDTFklm1ubbE%3D000119
+path=/
+Expiry=Thu Jul 14 17:42:55 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uVhgQtiStmWwQRiyCTcMdh2Kmf%2FMqPVFkhUrlRbCgSnI2P4coJAyb%2BA0qqqmJ7g96Ql0dNnRreRN4pWcpdZasYq98SzcQu7pLahS6%2Bh0rSSGFQaPxeTz22%2BR5CItXjjfT4f3QfFgJ5dwDTFklm1ubbE%3D000119
+path=/
+Expiry=Thu Jul 14 17:42:55 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uR9Q6Kk%2B2GWqw8vdjLDZdmEi48pQmPKhbpa6wgR93djVurnjuOCfL2bMrkLzlwo1ZFlV6sHaoFZlT2VZUN1DL2Y9yyFypmJe4jNCXBR2Rfi5eqMBkVMLnlofIBMbZhvyR%2B%2FLZmWplI1kMKct8UYwpY0%3D000119
+path=/
+Expiry=Thu Jul 14 18:15:02 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uR9Q6Kk%2B2GWqw8vdjLDZdmEi48pQmPKhbpa6wgR93djVurnjuOCfL2bMrkLzlwo1ZFlV6sHaoFZlT2VZUN1DL2Y9yyFypmJe4jNCXBR2Rfi5eqMBkVMLnlofIBMbZhvyR%2B%2FLZmWplI1kMKct8UYwpY0%3D000119
+path=/
+Expiry=Thu Jul 14 18:15:02 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uaIn4VO0vmDHGyvrrNTg%2FKjxB6R506wNTRPjRksqWhXQVDyrlanafc%2BJtge1BHdzpoBLDKrh%2BGirDZuyu4%2FhFJXFp35RbDTh8rPsjDFa3QqvybsgdQh1zXnEUk1Geoo4Ycm1Hi0rt7pQi%2BPooPZJqZI%3D000119
+path=/
+Expiry=Thu Jul 14 18:19:40 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uaIn4VO0vmDHGyvrrNTg%2FKjxB6R506wNTRPjRksqWhXQVDyrlanafc%2BJtge1BHdzpoBLDKrh%2BGirDZuyu4%2FhFJXFp35RbDTh8rPsjDFa3QqvybsgdQh1zXnEUk1Geoo4Ycm1Hi0rt7pQi%2BPooPZJqZI%3D000119
+path=/
+Expiry=Thu Jul 14 18:19:40 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uTDySqPk44xAdzV9QmwIQ9m9NXQ62fVmFuM9AgjuQ48kPTbl8O%2BIq0YJ3Y5orCyppRRR5%2BITWFRILDprMiDD2bkzp2S40mqc8yPXuNnzGSTvgMjnBI7sxDnwLKmLrsnsY6Z1gX%2FWlzB5FwWFV3nK6%2FU%3D000119
+path=/
+Expiry=Thu Jul 14 19:30:17 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uTDySqPk44xAdzV9QmwIQ9m9NXQ62fVmFuM9AgjuQ48kPTbl8O%2BIq0YJ3Y5orCyppRRR5%2BITWFRILDprMiDD2bkzp2S40mqc8yPXuNnzGSTvgMjnBI7sxDnwLKmLrsnsY6Z1gX%2FWlzB5FwWFV3nK6%2FU%3D000119
+path=/
+Expiry=Thu Jul 14 19:30:17 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uXp5DjPpd8C9a0eYb%2BB0sPHoswF7pAqqMwMlar9pSgIQ5GHWMsJKhLv%2FukD%2Fnhfv2VXqy%2BCDEAmFsAQ3FzApSQmx2wt0MYONXcW3QC3t1vWmKDOqdsWP0Z%2F2BrTCVI1rMVHwtUsmUM%2BdRBZ1kpPQ3z8%3D000119
+path=/
+Expiry=Thu Jul 14 19:32:47 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uXp5DjPpd8C9a0eYb%2BB0sPHoswF7pAqqMwMlar9pSgIQ5GHWMsJKhLv%2FukD%2Fnhfv2VXqy%2BCDEAmFsAQ3FzApSQmx2wt0MYONXcW3QC3t1vWmKDOqdsWP0Z%2F2BrTCVI1rMVHwtUsmUM%2BdRBZ1kpPQ3z8%3D000119
+path=/
+Expiry=Thu Jul 14 19:32:47 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uQHH8SAzlqVYhQGy4wgM1oIRHobHNa3XoBI3l3frqUlLwbTAPsFNqy%2FyfM77tmJYQKwMp8Se%2BSaxuMkZZd9JMSx7KGElXxTHVWsVyisMY8zjoIl7pSd5Odo7HKyjEh9bLNVPvPAOLySGaXle3beiNrc%3D000118
+path=/
+Expiry=Fri Jul 15 05:32:15 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uQHH8SAzlqVYhQGy4wgM1oIRHobHNa3XoBI3l3frqUlLwbTAPsFNqy%2FyfM77tmJYQKwMp8Se%2BSaxuMkZZd9JMSx7KGElXxTHVWsVyisMY8zjoIl7pSd5Odo7HKyjEh9bLNVPvPAOLySGaXle3beiNrc%3D000118
+path=/
+Expiry=Fri Jul 15 05:32:15 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9ud0Vh35Eh%2B%2FPm9b2Nv7DvmtoTJNHsYBl6SotGD4M21yUh8c1lGFGreB61dWUpwLMwahaPvRZV8Kgj1QBZsV%2FjMA%2F4OfA2XitvBef5iU30Ma6m6ixXypK%2F66%2BiQwpxyTDF4AXGp2E7rMNmDgfgmnOj74%3D000119
+path=/
+Expiry=Fri Jul 15 05:34:15 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9ud0Vh35Eh%2B%2FPm9b2Nv7DvmtoTJNHsYBl6SotGD4M21yUh8c1lGFGreB61dWUpwLMwahaPvRZV8Kgj1QBZsV%2FjMA%2F4OfA2XitvBef5iU30Ma6m6ixXypK%2F66%2BiQwpxyTDF4AXGp2E7rMNmDgfgmnOj74%3D000119
+path=/
+Expiry=Fri Jul 15 05:34:15 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uSyqcZhSnNQJoTfQTxDfQOGTL5ibkXHsK%2BdP8q%2F%2BeJ1bB1AfJRd9qbsp9BRdQXp4oLbXo0%2BmSjXg2ztzYbe7ONH72q08hKZV0l1%2FTN6p6MSw726nFm%2Fowhj69oOZWKPwhZYH4RR3khxXKmbRoqEpqdQ%3D000118
+path=/
+Expiry=Fri Jul 15 10:58:10 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Login data succesfully added
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uSyqcZhSnNQJoTfQTxDfQOGTL5ibkXHsK%2BdP8q%2F%2BeJ1bB1AfJRd9qbsp9BRdQXp4oLbXo0%2BmSjXg2ztzYbe7ONH72q08hKZV0l1%2FTN6p6MSw726nFm%2Fowhj69oOZWKPwhZYH4RR3khxXKmbRoqEpqdQ%3D000118
+path=/
+Expiry=Fri Jul 15 10:58:10 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9udjWcUcE6q8ahyDsEG688EQsxrEIuqrUzMeOwjHYmcnxmlgV2P3wFP33toMNuGHDS14gQt0kbjCAPelovkSZ%2BOhqpeNKIGO3m1%2FTbIBJpsuozYZr5jMJhNrziOtA0%2B85wRXUzxvcI1D12OqKrsB5Jz4%3D000119
+path=/
+Expiry=Fri Jul 15 11:05:42 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Login data succesfully added
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9udjWcUcE6q8ahyDsEG688EQsxrEIuqrUzMeOwjHYmcnxmlgV2P3wFP33toMNuGHDS14gQt0kbjCAPelovkSZ%2BOhqpeNKIGO3m1%2FTbIBJpsuozYZr5jMJhNrziOtA0%2B85wRXUzxvcI1D12OqKrsB5Jz4%3D000119
+path=/
+Expiry=Fri Jul 15 11:05:42 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uZ3%2BEy5xtUk5i%2FavRWNtCj2gfEGoaCLjTfAZgfGSNOELu7uO62kkQ3h%2F5Htvo8nA5pRlpCyMJTUWYEMwEJJUnwLX0bGdsCjokP1Aa8WMx2K2NXp6ygpa%2FuMiKpCacTP8iyLZpf%2BQuECBSPJJtFY8F5I%3D000119
+path=/
+Expiry=Fri Jul 15 11:20:20 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uZ3%2BEy5xtUk5i%2FavRWNtCj2gfEGoaCLjTfAZgfGSNOELu7uO62kkQ3h%2F5Htvo8nA5pRlpCyMJTUWYEMwEJJUnwLX0bGdsCjokP1Aa8WMx2K2NXp6ygpa%2FuMiKpCacTP8iyLZpf%2BQuECBSPJJtFY8F5I%3D000119
+path=/
+Expiry=Fri Jul 15 11:20:20 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uWP9L73Ka%2BwScKugB7Ul%2F2y23sDH9rw6GrBcE0PZda1f%2BkxjbsUG29ojexImXde0hxRKun2icH1Xvi9sHQJxv1VKP4emJi7HdpfQfBXhtu%2Bp%2BT9kO3SaBVUdp6QRQFK9jQ8rDW%2BVDZ4GHiYbuAsbjLs%3D000119
+path=/
+Expiry=Fri Jul 15 11:22:52 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uWP9L73Ka%2BwScKugB7Ul%2F2y23sDH9rw6GrBcE0PZda1f%2BkxjbsUG29ojexImXde0hxRKun2icH1Xvi9sHQJxv1VKP4emJi7HdpfQfBXhtu%2Bp%2BT9kO3SaBVUdp6QRQFK9jQ8rDW%2BVDZ4GHiYbuAsbjLs%3D000119
+path=/
+Expiry=Fri Jul 15 11:22:52 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser open succesfully
+http://automationpractice.com/index.php
+Enter url succesfully
+Maximize Screen succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uZ%2B3g8DfSIA%2FvT5HiQAAMb2slXaVXj04SdwH41sRQfZnwZmRhiMGssprdU%2F1YQKExBXYwLwOGyqC3XetsaauDe1EYLMNCGNE26Ig%2BL%2FhtjEfPl20kNT%2BQ%2BqR2Dp0V9EOM1wkGVU7PwcuZcONf%2Fpnry8%3D000119
+path=/
+Expiry=Fri Jul 15 11:25:29 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Total No of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Domain=.automationpractice.com
+Value=4%2FIOe%2BZK%2BOmXN7vX07S9uZ%2B3g8DfSIA%2FvT5HiQAAMb2slXaVXj04SdwH41sRQfZnwZmRhiMGssprdU%2F1YQKExBXYwLwOGyqC3XetsaauDe1EYLMNCGNE26Ig%2BL%2FhtjEfPl20kNT%2BQ%2BqR2Dp0V9EOM1wkGVU7PwcuZcONf%2Fpnry8%3D000119
+path=/
+Expiry=Fri Jul 15 11:25:29 IST 2022
+isHTTp=true
+isSecure=false
+Add Cookies succesfully
+Pageload timeout succesfully
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 13:04:57 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 13:06:45 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 13:10:07 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 13:11:59 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:22:40 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:22:40 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:29:01 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:29:01 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:31:28 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:31:28 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:43:40 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:43:40 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:54:10 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 15:54:10 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 16:20:04 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 16:32:00 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sat Jul 16 16:42:11 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:30:39 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:30:39 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:32:40 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:32:40 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:39:17 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:39:17 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:42:26 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:42:26 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:48:24 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 07:48:24 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 08:10:45 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 08:10:45 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 08:12:50 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 08:12:50 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 08:13:57 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 08:59:10 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 08:59:10 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:00:33 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:00:33 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:01:32 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:18:08 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:18:08 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:19:22 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:19:22 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:20:23 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:22:07 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:22:07 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:23:10 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:29:17 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:29:17 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 09:30:17 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 12:38:22 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 12:38:22 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 12:38:22 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 12:40:24 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 12:40:24 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 12:40:24 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:01:34 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:02:11 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:02:11 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:03:12 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:23:26 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:23:26 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:24:02 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:24:20 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:24:20 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:24:20 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:24:20 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:26:18 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:26:18 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:26:53 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:28:50 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:28:50 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:29:20 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:29:35 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:29:35 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:29:35 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:29:35 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=0
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:33:28 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:33:28 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:33:28 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:33:28 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:33:28 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:33:28 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:33:28 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:36:07 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:36:07 IST 2022
+Cookies succesfully added
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:36:07 IST 2022
+Cookies succesfully added
+Browser Open SuccessFully
+Enter url
+Maximize Screen succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:44:38 IST 2022
+Cookies succesfully added
+Sign data succesfully added
+Capture screenshot succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:44:38 IST 2022
+Cookies succesfully added
+Register data succesfully added
+Capture screenshot succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:45:04 IST 2022
+Cookies succesfully added
+Capture screenshot succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:45:22 IST 2022
+Cookies succesfully added
+Capture screenshot succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:45:22 IST 2022
+Cookies succesfully added
+Capture screenshot succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:45:22 IST 2022
+Cookies succesfully added
+Capture screenshot succesfully
+Total No Of Cookies=1
+Name=PrestaShop-a30a9934ef476d11b6cc3c983616e364
+Class=class org.openqa.selenium.Cookie
+Path=/
+Value=/
+Domain=.automationpractice.com
+isHttps=true
+isSecure=false
+Expiry=Sun Jul 17 13:45:22 IST 2022
+Cookies succesfully added
+Capture screenshot succesfully
+Delete cookies succesfully
+Deta base close succesfully
+Close browser succesfully

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="com.cjc.test.AutomationTest">
+        <methods>
+          <include name="enterAddress"/>
+          <include name="maximizeScreen"/>
+          <include name="chekout"/>
+          <include name="shipment"/>
+          <include name="beforeSuite"/>
+          <include name="addCookies"/>
+          <include name="paymentCon"/>
+          <include name="enterUrl"/>
+          <include name="addToCard1"/>
+          <include name="registerDetails"/>
+        </methods>
+      </class> <!-- com.cjc.test.AutomationTest -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
