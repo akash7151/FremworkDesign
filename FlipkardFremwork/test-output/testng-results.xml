@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25721" started-at="2022-06-25T17:03:26 IST" finished-at="2022-06-25T17:03:52 IST">
+  <suite name="Default suite" duration-ms="37325" started-at="2022-06-27T14:11:31 IST" finished-at="2022-06-27T14:12:08 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25721" started-at="2022-06-25T17:03:26 IST" finished-at="2022-06-25T17:03:52 IST">
+    <test name="Default test" duration-ms="37325" started-at="2022-06-27T14:11:31 IST" finished-at="2022-06-27T14:12:08 IST">
       <class name="com.cjc.fk.test.Flipkard">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="beforeSuite" is-config="true" duration-ms="2201" started-at="2022-06-25T17:03:24 IST" finished-at="2022-06-25T17:03:26 IST">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="beforeSuite" is-config="true" duration-ms="2901" started-at="2022-06-27T14:11:28 IST" finished-at="2022-06-27T14:11:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="enterApplicationUrl()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="enterApplicationUrl" is-config="true" duration-ms="17887" started-at="2022-06-25T17:03:26 IST" finished-at="2022-06-25T17:03:44 IST">
+        <test-method status="PASS" signature="enterApplicationUrl()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="enterApplicationUrl" is-config="true" duration-ms="29445" started-at="2022-06-27T14:11:31 IST" finished-at="2022-06-27T14:12:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterApplicationUrl -->
-        <test-method status="PASS" signature="maximizeWindow()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="maximizeWindow" is-config="true" duration-ms="190" started-at="2022-06-25T17:03:44 IST" finished-at="2022-06-25T17:03:45 IST">
+        <test-method status="PASS" signature="maximizeWindow()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="maximizeWindow" is-config="true" duration-ms="353" started-at="2022-06-27T14:12:00 IST" finished-at="2022-06-27T14:12:01 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- maximizeWindow -->
-        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="getCookies" is-config="true" duration-ms="344" started-at="2022-06-25T17:03:45 IST" finished-at="2022-06-25T17:03:45 IST">
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="getCookies" is-config="true" duration-ms="956" started-at="2022-06-27T14:12:01 IST" finished-at="2022-06-27T14:12:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getCookies -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="loginTest" duration-ms="561" started-at="2022-06-25T17:03:45 IST" finished-at="2022-06-25T17:03:45 IST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="loginTest" duration-ms="2367" started-at="2022-06-27T14:12:02 IST" finished-at="2022-06-27T14:12:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="captureScreenshot" is-config="true" duration-ms="269" started-at="2022-06-25T17:03:45 IST" finished-at="2022-06-25T17:03:46 IST">
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="captureScreenshot" is-config="true" duration-ms="254" started-at="2022-06-27T14:12:04 IST" finished-at="2022-06-27T14:12:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="getCookies" is-config="true" duration-ms="300" started-at="2022-06-25T17:03:46 IST" finished-at="2022-06-25T17:03:46 IST">
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="getCookies" is-config="true" duration-ms="307" started-at="2022-06-27T14:12:04 IST" finished-at="2022-06-27T14:12:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getCookies -->
-        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:1, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="searchProductTest" duration-ms="4196" started-at="2022-06-25T17:03:46 IST" data-provider="getData" finished-at="2022-06-25T17:03:50 IST">
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:1, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="searchProductTest" duration-ms="2176" started-at="2022-06-27T14:12:05 IST" data-provider="getData" finished-at="2022-06-27T14:12:07 IST">
           <params>
             <param index="0">
               <value>
@@ -46,19 +46,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProductTest -->
-        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="captureScreenshot" is-config="true" duration-ms="503" started-at="2022-06-25T17:03:50 IST" finished-at="2022-06-25T17:03:51 IST">
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="captureScreenshot" is-config="true" duration-ms="297" started-at="2022-06-27T14:12:07 IST" finished-at="2022-06-27T14:12:07 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreenshot -->
-        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="deleteCookies" is-config="true" duration-ms="1385" started-at="2022-06-25T17:03:51 IST" finished-at="2022-06-25T17:03:52 IST">
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="deleteCookies" is-config="true" duration-ms="1111" started-at="2022-06-27T14:12:07 IST" finished-at="2022-06-27T14:12:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteCookies -->
-        <test-method status="PASS" signature="dbClose()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="dbClose" is-config="true" duration-ms="0" started-at="2022-06-25T17:03:52 IST" finished-at="2022-06-25T17:03:52 IST">
+        <test-method status="PASS" signature="dbClose()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="dbClose" is-config="true" duration-ms="1" started-at="2022-06-27T14:12:08 IST" finished-at="2022-06-27T14:12:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dbClose -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="closeBrowser" is-config="true" duration-ms="4191" started-at="2022-06-25T17:03:52 IST" finished-at="2022-06-25T17:03:56 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.cjc.fk.test.Flipkard@5c072e3f]" name="closeBrowser" is-config="true" duration-ms="169" started-at="2022-06-27T14:12:08 IST" finished-at="2022-06-27T14:12:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

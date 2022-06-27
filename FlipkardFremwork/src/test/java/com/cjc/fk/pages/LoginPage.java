@@ -31,14 +31,14 @@ public class LoginPage {
      {
 		
 		
-//	 String un=Common.excel_Read_usrname();
-//		 String ps=Common.excel_Read_pass();
-//		 
-//		 System.out.println("Username============="+un);
-//		 System.out.println("pass============="+ps);
-//		 
-    	mobno.sendKeys("7972547020");
-        password.sendKeys("dell@123");
+ String un=Common.excel_Read_usrname();
+	 String ps=Common.excel_Read_pass();
+		 
+		 System.out.println("Username============="+un);
+		 System.out.println("pass============="+ps);
+		 
+    	mobno.sendKeys(un);
+        password.sendKeys(ps);
     	login.click();
      }
 		

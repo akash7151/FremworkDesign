@@ -32,7 +32,7 @@ public class Common {
 
 	public static String excel_Read_usrname() throws IOException
 	{
-		fis=new FileInputStream("F:\\FlipkardFremwork\\src\\test\\resources\\FKFremwork.xlsx");
+		fis=new FileInputStream("C:\\Users\\Akash\\git\\FremworkDesign\\FlipkardFremwork\\src\\test\\resources\\FKFremwork.xlsx");
 	    asw=new XSSFWorkbook(fis);
 	    sheet=asw.getSheet("Sheet1");
 	    row=sheet.getRow(1);
@@ -43,7 +43,7 @@ public class Common {
 
 	public static String excel_Read_pass() throws IOException
 	{
-		fis=new FileInputStream("F:\\FlipkardFremwork\\src\\test\\resources\\FKFremwork.xlsx");
+		fis=new FileInputStream("C:\\Users\\Akash\\git\\FremworkDesign\\FlipkardFremwork\\src\\test\\resources\\FKFremwork.xlsx");
 	    asw=new XSSFWorkbook(fis);
 	    sheet=asw.getSheet("Sheet1");
 	    row=sheet.getRow(1);
